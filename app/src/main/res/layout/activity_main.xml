@@ -12,10 +12,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginTop="90dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:background="#FF9800"
+        android:background="#FFC107"
         android:fontFamily="@font/dancingscript_bold"
         android:padding="8sp"
         android:paddingLeft="12sp"
@@ -26,7 +26,7 @@
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/welcome_text" />
+        app:layout_constraintTop_toBottomOf="@+id/welcome_text"/>
 
     <TextView
         android:id="@+id/welcome_text"
@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="60dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:fontFamily="serif-monospace"
@@ -56,7 +56,7 @@
         android:layout_marginTop="40dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:background="#FF9800"
+        android:background="#FFC107"
         android:fontFamily="@font/dancingscript_bold"
         android:padding="8sp"
         android:paddingLeft="12sp"
@@ -67,5 +67,5 @@
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/about_alc_btn" />
+        app:layout_constraintTop_toBottomOf="@+id/about_alc_btn"/>
 </android.support.constraint.ConstraintLayout>

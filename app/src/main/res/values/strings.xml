@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">ALC4 Phase 1</string>
     <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc_title">About ALC</string>
     <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile_title">My Profile</string>
     <string name="my_profile">MY PROFILE</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="mquadrant_gmail_com">mquadrant@gmail.com</string>
+    <string name="_2348129373263">2348129373263</string>
+    <string name="benmark">\@benmark</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="country">Country:</string>
+    <string name="android">Android</string>
+    <string name="email">Email:</string>
+    <string name="benjamin_mark">Benjamin Mark</string>
+    <string name="track">Track:</string>
+    <string name="profile_picture">Profile Picture</string>
 </resources>
