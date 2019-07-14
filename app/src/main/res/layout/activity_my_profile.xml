@@ -17,7 +17,6 @@
             android:contentDescription="@string/profile_picture"
             android:scaleType="centerInside"
             android:src="@drawable/img_20160113_111054_edit" />
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
